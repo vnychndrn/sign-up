@@ -1,0 +1,30 @@
+ #body-color{ background-color:#000000; 
+ background-image:url('signup.jpg');
+ background-size:1600px 1000px;
+ background-position: center; 
+ background-repeat: no-repeat;}
+
+ #Sign-Up{
+ 
+ background-size:500px 500px;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-position:center;
+ color:#FFFFFF;
+ margin-top:150px;
+ margin-bottom:150px;
+ margin-right:150px;
+ margin-left:450px;
+ padding:9px 35px;
+ font-weight:bold;
+ }
+ #button{
+ border-radius:10px;
+ width:100px;
+ height:40px;
+ color:#FFFFFF;
+ background:#000000;
+ font-weight:bold;
+ font-size:20px;
+ }
+
